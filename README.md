@@ -1,26 +1,113 @@
-<h1 align="center">Hi 👋, I'm Divyesh Vyas</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyesh511&label=Profile%20views&color=0e75b6&style=flat" alt="divyesh511" /> </p>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · divyesh511</sub></p>
+<h1>Divyesh Vyas</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyesh511" alt="divyesh511" /></a> </p>
+<p><a href="https://github.com/divyesh511">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/203076156?v=4" width="180" alt="Divyesh Vyas GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-- 🌱 I’m currently learning **react**
+<h2>What teams can evaluate quickly</h2>
 
-- 🤝 I’m looking for help with **Web Developer**
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · CSS · HTML · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>8 contributions · 4 active days</p></td>
+</tr>
+</table>
 
-- 💬 Ask me about **Web Developer**
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-- 📫 How to reach me **divyeshvyas2005@gmail.com**
-<br> <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divyesh vyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyesh vyas" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/401202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="401202" height="30" width="40" /></a>
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=divyesh511&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203076156%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=divyesh511&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203076156%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Divyesh Vyas GitHub proof metrics" />
+</picture>
 </p>
- <hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<br><hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyesh511&" alt="divyesh511" /></p>
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=divyesh511&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203076156%3Fv%3D4&repos=divyesh511%2Fhackathon%2Cdivyesh511%2Fgift%2Cdivyesh511%2Fdivyesh511%2Cdivyesh511%2FTo-Do-List-Divyesh-&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=divyesh511&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203076156%3Fv%3D4&repos=divyesh511%2Fhackathon%2Cdivyesh511%2Fgift%2Cdivyesh511%2Fdivyesh511%2Cdivyesh511%2FTo-Do-List-Divyesh-&v=recruiter-projects-1&mode=dark" width="100%" alt="Divyesh Vyas selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/divyesh511/hackathon">hackathon</a></h3>
+<p>creating rent vault application</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/divyesh511/hackathon">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/divyesh511/gift">gift</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/divyesh511/divyesh511">divyesh511</a></h3><p>Hello World! This is my profile.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/divyesh511/To-Do-List-Divyesh-">To-Do-List-Divyesh-</a></h3><p>A selected public project.</p><p><sub>CSS · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=divyesh511&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203076156%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=divyesh511&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203076156%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Divyesh Vyas technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center"><strong>CSS</strong><br /><sub>58% of public code</sub></td>
+<td width="33%" align="center"><strong>HTML</strong><br /><sub>28% of public code</sub></td>
+<td width="33%" align="center"><strong>JavaScript</strong><br /><sub>15% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=divyesh511&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203076156%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=divyesh511&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203076156%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Divyesh Vyas contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/divyesh511">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Divyesh Vyas · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
